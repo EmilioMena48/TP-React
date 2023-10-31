@@ -8,7 +8,7 @@ const AboutUs = () => {
         <h2 style={{marginBottom: "1em", marginTop:"1em"}}>About Us</h2>
           <CardGroup>
       <Card>
-        <Card.Img variant="top" src="src/assets/images/wallpaperbetter.com_3840x2160 (1).jpg" />
+        <Card.Img variant="top" src="images/wallpaperbetter.com_3840x2160 (1).jpg" />
         <Card.Body>
           <Card.Title>Card title</Card.Title>
           <Card.Text>
@@ -21,7 +21,7 @@ const AboutUs = () => {
         </Card.Footer>
       </Card>
       <Card>
-        <Card.Img variant="top" src="src/assets/images/wallpaperbetter.com_3840x2160 (1).jpg" />
+        <Card.Img variant="top" src="images/wallpaperbetter.com_3840x2160 (1).jpg" />
         <Card.Body>
           <Card.Title>Card title</Card.Title>
           <Card.Text>
@@ -34,7 +34,7 @@ const AboutUs = () => {
         </Card.Footer>
       </Card>
       <Card>
-        <Card.Img variant="top" src="src/assets/images/wallpaperbetter.com_3840x2160 (1).jpg" />
+        <Card.Img variant="top" src="images/wallpaperbetter.com_3840x2160 (1).jpg" />
         <Card.Body>
           <Card.Title>Card title</Card.Title>
           <Card.Text>

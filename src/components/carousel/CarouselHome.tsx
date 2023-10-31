@@ -9,7 +9,7 @@ const CarouselHome = () => {
       <Carousel.Item>
         <img className='d-block w-100' 
         style={{maxHeight:"500px", objectFit:"cover"}} 
-        src="src/assets/images/75572-hamburguesa.jpg" alt="" />
+        src="images/75572-hamburguesa.jpg" alt="" />
         <Carousel.Caption>
           <h3>First slide label</h3>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
@@ -18,7 +18,7 @@ const CarouselHome = () => {
       <Carousel.Item>
       <img className='d-block w-100' 
         style={{maxHeight:"500px", objectFit:"cover"}} 
-        src="src/assets/images/wallpaperbetter.com_3840x2160 (1).jpg" alt="" />
+        src="images/wallpaperbetter.com_3840x2160 (1).jpg" alt="" />
         <Carousel.Caption>
           <h3>Second slide label</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -27,7 +27,7 @@ const CarouselHome = () => {
       <Carousel.Item>
       <img className='d-block w-100' 
         style={{maxHeight:"500px", objectFit:"cover"}} 
-        src="src/assets/images/wallpaperbetter.com_3840x2160.jpg" alt="" />
+        src="images/wallpaperbetter.com_3840x2160.jpg" alt="" />
         <Carousel.Caption>
           <h3>Third slide label</h3>
           <p>
